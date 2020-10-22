@@ -5,3 +5,5 @@ ERROR_REPORTING(E_ALL);
 require "vendor/autoload.php";
 
 new Client();
+
+echo "testen";
